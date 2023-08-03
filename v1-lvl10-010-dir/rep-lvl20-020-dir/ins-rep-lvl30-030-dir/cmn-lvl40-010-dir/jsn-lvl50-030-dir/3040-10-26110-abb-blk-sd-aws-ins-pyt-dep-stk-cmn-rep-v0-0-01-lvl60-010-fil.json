@@ -20,7 +20,7 @@
           }
         }
       },
-      "3040-10-3100-cll-leg-sd-aws-lvl30-020-dir": {
+      "3040-10-3100-bll-leg-sd-aws-lvl30-020-dir": {
         "ere-lvl40-010-dir": {
           "3040-10-3145-jfr-dtn-sd-aws-lvl50-010-dir": {
             "cfg-lvl60-010-dir": "3040-10-3145-jfr-dtn-sd-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
@@ -189,7 +189,7 @@
             "sys-lvl60-120-dir": "3040-10-3140-ffr-sec-sd-aws-dep-sys-v0-0-01-lvl70-010-fil.json",
             "tol-lvl60-130-dir": "3040-10-3140-ffr-sec-sd-aws-dep-tol-v0-0-01-lvl70-010-fil.json"
           },
-          "3040-10-3145-jfr-dtn-sd-aws-lvl50-110-dir": {
+          "3040-10-3150-mfr-dat-sd-aws-lvl50-110-dir": {
             "cfg-lvl60-010-dir": "3040-10-3150-mfr-dat-sd-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
             "env-lvl60-020-dir": "3040-10-3150-mfr-dat-sd-aws-dep-env-v0-0-01-lvl70-010-fil.json",
             "lan-lvl60-030-dir": "3040-10-3150-mfr-dat-sd-aws-dep-lan-v0-0-01-lvl70-010-fil.json",
@@ -206,7 +206,7 @@
           }
         }
       },
-      "3040-10-700-bll-leg-sd-aws-lvl30-030-dir": {
+      "3040-10-700-cll-leg-sd-aws-lvl30-030-dir": {
         "ere-lvl40-010-dir": {
           "3040-10-720-pcr-bkt-sd-aws-lvl50-010-dir": {
             "cfg-lvl60-010-dir": "3040-10-720-pcr-bkt-sd-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
