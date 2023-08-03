@@ -1,0 +1,30 @@
+{
+  "v1-lvl10-010-dir": {
+    "jsn-obj-lvl20-010-dir": {
+      "ins-lvl30-010-dir": "3040-10-26105-abb-blk-sd-aws-ins-jsn-obj-v0-0-01-lvl40-010-fil.json"
+    },
+    "rep-lvl20-020-dir": {
+      "dfb-rep-lvl30-010-dir": {
+        "imp-lvl40-010-dir": "3040-10-26110-abb-blk-sd-aws-ins-dfb-dep-stk-rep-v0-0-01-lvl50-010-fil.py",
+        "jsn-lvl40-020-dir": "3040-10-26110-abb-blk-sd-aws-ins-dfb-pyt-dep-stk-rep-v0-0-01-lvl50-010-fil.json"
+      },
+      "imp-rep-lvl30-020-dir": {
+        "crn-lvl40-010-dir": "3040-10-26110-abb-blk-sd-aws-ins-imp-crn-dep-rep-v0-0-01-lvl50-010-fil.py",
+        "ipt-lvl40-020-dir": "3040-10-26110-abb-blk-sd-aws-ins-imp-ipt-dep-rep-v0-0-01-lvl50-010-fil.py",
+        "jsn-lvl40-030-dir": "3040-10-26110-abb-blk-sd-aws-ins-imp-pyt-dep-stk-rep-v0-0-01-lvl50-010-fil.json"
+      },
+      "ins-rep-lvl30-030-dir": {
+        "cmn-lvl40-010-dir": {
+          "crn-lvl50-010-dir": "3040-10-26110-abb-blk-sd-aws-ins-crn-dep-cmn-rep-v0-0-01-lvl60-010-fil.py",
+          "ipt-lvl50-020-dir": "3040-10-26110-abb-blk-sd-aws-ins-ipt-dep-cmn-rep-v0-0-01-lvl60-010-fil.py",
+          "jsn-lvl50-030-dir": "3040-10-26110-abb-blk-sd-aws-ins-pyt-dep-stk-cmn-rep-v0-0-01-lvl60-010-fil.json"
+        },
+        "prv-lvl40-020-dir": {
+          "crn-lvl50-010-dir": "3040-10-26110-abb-blk-sd-aws-ins-crn-dep-prv-rep-v0-0-01-lvl60-010-fil.py",
+          "ipt-lvl50-020-dir": "3040-10-26110-abb-blk-sd-aws-ins-ipt-dep-prv-rep-v0-0-01-lvl60-010-fil.py",
+          "jsn-lvl50-030-dir": "3040-10-26110-abb-blk-sd-aws-ins-pyt-dep-stk-prv-rep-v0-0-01-lvl60-010-fil.json"
+        }
+      }
+    }
+  }
+}
